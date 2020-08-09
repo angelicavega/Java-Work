@@ -1,2 +1,2 @@
 # Java-Work
-This Repository contains Java Code
+This Repository contains my work with Java
