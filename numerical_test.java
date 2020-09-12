@@ -1,4 +1,4 @@
-//Intro Computer Science II
+//Intro to Computer Science II
 
 import java.util.Scanner;
 
