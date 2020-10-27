@@ -1,3 +1,6 @@
+//This Java code is derived from Bob Nystrom's "Crafting Interpreters"
+//Currently working on this code for my Design and Organization Class in order to understand the work behind jlox interpreters
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
